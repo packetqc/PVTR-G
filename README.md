@@ -13,6 +13,8 @@ My background of building monitoring, networking, back-end, front-end and securi
 
 Working on log filters, stats graphics, sms views, sim profile, include wireshark qt project, bring back positioning maps-in  and hopefully adding some python sdk to auto-detect noise around the channel the device just hop in. 
 
+![Image of MON-LOG](https://github.com/packetqc/PVTR-G/blob/master/pvtr-g-log-mon.png)
+
 But for now sms and Internet are operational with regards to my provider I would love to enforce security at the access layer or perhaps secure automotive. 
 
 Great project with Sierra Wireless technologies ! Come see next videos and lets schedule an interview ! :)
