@@ -1,5 +1,5 @@
 # PVTR-G
-personal dev qt c++ qml 4g monitoring app project while looking for employment.
+personal dev qt c++ qml 4g monitoring and forensic app project while looking for employment.
 
 ![Image of PVTR-G](https://github.com/packetqc/PVTR-G/blob/master/pvtr-g.png)
 
