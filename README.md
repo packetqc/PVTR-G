@@ -7,5 +7,9 @@ My latest personal 4G project while looking for employment: again, as the 100th 
 
 ![Image of STATS](https://github.com/packetqc/PVTR-G/blob/master/pvtr-g-stats.png)
 
-My background of building monitoring, networking, back-end, front-end and security tools is quite ready for IoT next generations. Take a look at [demo](https://github.com/packetqc/PVTR-G/blob/master/pvtr-g.mp4) videos and see, some advanced designer and coder may already recognized what as been implemented and is required for this type of application running smoothly with minimal fingerprint. Working on graphics, sms views, sim profile, include wireshark qt project, bring back positioning maps-in  and hopefully adding some python sdk to auto-detect noise around the channel the device just hop in. But for now sms and Internet are operational with regards to my provider I would love to enforce security at the access layer or perhaps secure automotive. Great project with Sierra Wireless technologies ! Come see next videos and lets schedule an interview ! :)
+My background of building monitoring, networking, back-end, front-end and security tools is quite ready for IoT next generations. Take a look at [demo](https://github.com/packetqc/PVTR-G/blob/master/pvtr-g.mp4) videos and see, some advanced designer and coder may already recognized what as been implemented and is required for this type of application running smoothly with minimal fingerprint. 
+
+![Image of LOGS](https://github.com/packetqc/PVTR-G/blob/master/pvtr-g-logs.png)
+
+Working on log filters, stats graphics, sms views, sim profile, include wireshark qt project, bring back positioning maps-in  and hopefully adding some python sdk to auto-detect noise around the channel the device just hop in. But for now sms and Internet are operational with regards to my provider I would love to enforce security at the access layer or perhaps secure automotive. Great project with Sierra Wireless technologies ! Come see next videos and lets schedule an interview ! :)
 
