@@ -17,5 +17,7 @@ Working on log filters, stats graphics, sms views, sim profile, include wireshar
 
 But for now sms and Internet are operational with regards to my provider I would love to enforce security at the access layer or perhaps secure automotive. 
 
+![Image of STATUS](https://github.com/packetqc/PVTR-G/blob/master/pvtr-g-status.png)
+
 Great project with Sierra Wireless technologies ! Come see next videos and lets schedule an interview ! :)
 
