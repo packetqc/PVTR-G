@@ -21,11 +21,11 @@ But for now sms and Internet are operational with regards to my provider I would
 
 GPS and MAP integration is on going. Strange gps coordinates to be worked on. All from Pineapple audit scan with map features project developped in 2016 could be included. Qt Quick 2 C++ and QML seems to have a good arsenal to complete a geomapping module that fits with this application.
 
-![Image of MAP](https://github.com/packetqc/PVTR-G/blob/master/pvtr-g-map.png)
+
 
 Great project with Sierra Wireless technologies ! 
 
-![Image of STATS2] (https://github.com/packetqc/PVTR-G/blob/master/pvtr-g-stats2.png)
+![Image of STATS2](https://github.com/packetqc/PVTR-G/blob/master/pvtr-g-stats2.png)
 
 Come see next videos and lets schedule an interview ! :)
 
