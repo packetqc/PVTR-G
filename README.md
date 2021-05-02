@@ -19,7 +19,7 @@ But for now sms and Internet are operational with regards to my provider I would
 
 ![Image of STATUS](https://github.com/packetqc/PVTR-G/blob/master/pvtr-g-status.png)
 
-GPS and MAP integration is on going. Strange gps coordinates to be worked on. All from Pineapple audit scan with map features project developped in 2018 could be included. Qt Quick 2 C++ and QML seems to have a good arsenal to complete a geomapping module that fits with this application.
+GPS and MAP integration is on going. All from Pineapple audit scan with map features project developped in 2018 could be included. Qt Quick 2 C++ and QML seems to have a good arsenal to complete a geomapping module that fits with this application.
 
 ![Image of MAP](https://github.com/packetqc/PVTR-G/blob/master/pvtr-g-map2.png)
 
