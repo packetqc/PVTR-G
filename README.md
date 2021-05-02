@@ -23,5 +23,9 @@ GPS and MAP integration is on going. Strange gps coordinates to be worked on. Al
 
 ![Image of MAP](https://github.com/packetqc/PVTR-G/blob/master/pvtr-g-map.png)
 
-Great project with Sierra Wireless technologies ! Come see next videos and lets schedule an interview ! :)
+Great project with Sierra Wireless technologies ! 
+
+![Image of STATS2] (https://github.com/packetqc/PVTR-G/blob/master/pvtr-g-stats2.png)
+
+Come see next videos and lets schedule an interview ! :)
 
