@@ -19,5 +19,9 @@ But for now sms and Internet are operational with regards to my provider I would
 
 ![Image of STATUS](https://github.com/packetqc/PVTR-G/blob/master/pvtr-g-status.png)
 
+GPS and MAP integration is on going. Strange gps coordinates to be worked on. All from Pineapple audit scan with map features project developped in 2016 could be included. Qt seems to have a good arsenal to complete a geomapping module that fits with this application.
+
+![Image of MAP](https://github.com/packetqc/PVTR-G/blob/master/pvtr-g-map.png)
+
 Great project with Sierra Wireless technologies ! Come see next videos and lets schedule an interview ! :)
 
