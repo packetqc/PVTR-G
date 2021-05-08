@@ -25,7 +25,7 @@ GPS and MAP integration is on going. All from Pineapple audit scan with map feat
 
 Great project with Sierra Wireless technologies ! 
 
-![Image of STATS2](https://github.com/packetqc/PVTR-G/blob/master/pvtr-g-stats2.png)
+![Image of STATS3](https://github.com/packetqc/PVTR-G/blob/master/pvtr-g-stats3.png)
 
 Come see next videos and lets schedule an interview ! :)
 
