@@ -27,5 +27,5 @@ Great project with Sierra Wireless technologies !
 
 ![Image of STATS3](https://github.com/packetqc/PVTR-G/blob/master/pvtr-g-stats3.png)
 
-Come see next videos and lets schedule an interview ! :)
+Come see next videos some time ! :)
 
